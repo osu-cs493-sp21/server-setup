@@ -1,0 +1,26 @@
+{
+  "name": "server-setup",
+  "version": "1.0.0",
+  "description": "Setting up a server with Node.js and Express",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/osu-cs493-sp21/server-setup.git"
+  },
+  "author": "Hess <hessro@oregonstate.edu>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/osu-cs493-sp21/server-setup/issues"
+  },
+  "homepage": "https://github.com/osu-cs493-sp21/server-setup#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "figlet": "^1.5.0"
+  }
+}
